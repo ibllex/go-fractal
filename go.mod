@@ -1,4 +1,4 @@
-module github.com/ibllex/fractal
+module github.com/ibllex/go-fractal
 
 go 1.14
 
