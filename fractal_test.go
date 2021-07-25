@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/ibllex/fractal"
-	"github.com/ibllex/fractal/pagination"
+	"github.com/ibllex/go-fractal"
+	"github.com/ibllex/go-fractal/pagination"
 	"github.com/stretchr/testify/assert"
 )
 

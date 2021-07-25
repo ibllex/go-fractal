@@ -1,6 +1,6 @@
 package gin
 
-import "github.com/ibllex/fractal"
+import "github.com/ibllex/go-fractal"
 
 type Response struct {
 	Ctx      *Context

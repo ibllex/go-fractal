@@ -3,7 +3,7 @@ package fractal_test
 import (
 	"testing"
 
-	"github.com/ibllex/fractal"
+	"github.com/ibllex/go-fractal"
 	"github.com/stretchr/testify/assert"
 )
 

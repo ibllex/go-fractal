@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/ibllex/fractal"
+	"github.com/ibllex/go-fractal"
 )
 
 // Context gin context with fractal extension

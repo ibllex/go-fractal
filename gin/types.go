@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"
-	"github.com/ibllex/fractal"
+	"github.com/ibllex/go-fractal"
 )
 
 // Paginator paginator with items
