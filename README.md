@@ -5,7 +5,7 @@ go-fractal is the go version of [league/fractal](https://github.com/thephpleague
 ## Install
 
 ```bash
-go get -u github.com/ibllex/go-ruler
+go get -u github.com/ibllex/go-fractal
 ```
 
 ## Quick usage
